@@ -8,4 +8,4 @@ Recently completed a Data Analyst internship and currently working as a Q-Fellow
 Tools: Python, Stata, SQL, Power BI, Tableau  
 Experience: FCC, ACS/IPUMS, NHIS, CRM & marketing data  
 
-📫 gracienguyen.nl@gmail.com | 🔗 linkedin.com/in/gracienl
+📫 gracienguyen.nl@gmail.com | 🔗 https://www.linkedin.com/in/gracienl/
