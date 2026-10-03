@@ -1,19 +1,17 @@
-## Hi, I’m Gracie 👋
+## Hi, I’m Gracie ✌️
 
-Computer Science & Quantitative Economics student at Dickinson College (Carlisle, PA).
+Computer Science, Data Analytics, and Quantitative Economics student at Dickinson College (Carlisle, PA).
 
-I work on data analytics, BI dashboards, and applied research using real-world datasets across economics, health, education, and business.
+My area of interest is how data can improve business performance, guide strategy, and create practical solutions.
 
-I recently finished a Data Analyst internship and am currently a Q-Fellow (Data Analyst & Dashboard Developer) and Research Assistant.
-
-I’m currently seeking opportunities in data analytics, BI, and applied data science.
+I’m currently seeking opportunities in data analytics, business intelligence, and applied data science.
 
 ---
 
 ## Tools & Tech
-- Python, SQL, Stata, R  
+- Python, SQL, Stata
 - Power BI, Tableau, Excel (Power Query)  
-- Marketo  
+- Salesforce  
 
 ---
 
